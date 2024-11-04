@@ -384,6 +384,6 @@ Sage Bionetworks Attn: PCO-Copyright 2901 Third Ave, Ste 330, Seattle, WA 98121 
 
 <p><strong>20.7 &nbsp;&nbsp; Notice to California Residents.</strong> If you are a California resident, then under California Civil Code Section 1789.3, you may contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 N. Market Blvd., Suite S-202, Sacramento, California 95834, or by telephone at +1-800-952-5210 in order to resolve a complaint regarding the Service or to receive further information regarding use of the Service.</p>  
 
-<p><strong>20.1 &nbsp;&nbsp; No Support.</strong> We are under no obligation to provide support for the Service. In instances where we may offer support, the support will be subject to published policies.</p>  
+<p><strong>20.8 &nbsp;&nbsp; No Support.</strong> We are under no obligation to provide support for the Service. In instances where we may offer support, the support will be subject to published policies.</p>  
 
  </li>  
