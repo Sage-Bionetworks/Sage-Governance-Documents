@@ -1,7 +1,7 @@
 **<h1>Sage Bionetworks Terms of Service</h1>** 
 
 <!-- Enter Date -->
-<strong> Effective Date: JUN 15, 2025</strong> 
+<strong> Effective Date: JUL 1, 2025</strong> 
 
 IMPORTANT: We've updated our Terms of Service with new provisions for Sovereign Entities and users under 18.
 
