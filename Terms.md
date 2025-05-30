@@ -41,9 +41,9 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 <p><strong>When contributing User Content, or accessing advanced features you must: </strong></p>
 <ul>
 <li><p>Complete the Sage Bionetworks training to demonstrate understanding of rules for redistributing datasets, Software, or other Content, and interacting with cloud technologies, APIs, and de-identified information.</p></li>
-<li><p>Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized. See information about de-identification in accordance with the [HIPAA Privacy Rule](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html).</p></li>
+<li><p>Remove direct HIPAA identifiers from Content you contribute, unless otherwise unambiguously authorized. See information about de-identification in accordance with the <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html" target="_blank" rel="noopener noreferrer">HIPAA Privacy Rule</a>.</p></li>
 <li><p>Ensure that data participants have consented to the sharing and use of their Data, where required by applicable law.</p></li>
-<li><p>License Public Content under [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/) and open-source licenses like [Apache 2.0.](https://www.apache.org/licenses/LICENSE-2.0).</p></li>
+<li><p>License Public Content under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener noreferrer">Creative Commons BY 4.0</a> and open-source licenses like <a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank" rel="noopener noreferrer">Apache 2.0.</a>.</p></li>
 <li><p>Grant Sage broader licenses for Private Content to operate services, improve products, and train AI models.</p></li>
 </ul>
 
@@ -52,7 +52,7 @@ Here is a summary of several key provisions of Sage Bionetworks’ Terms of Serv
 <li><p>We will remove Content if we deem it inappropriate and will cancel your account for violations, or prolonged inactivity.</p></li>
 <li><p>We respect the intellectual property rights, including copyrights, patents, trade secrets, and trademarks, of others, and ask you to do the same. You retain copyright in the content you post but grant licenses to Sage and other users.</p></li>
 <li><p>We have the right to use your Content to operate our services and develop new products.</p></li>
-<li><p>You must be at least 18 years old to use our services or you must obtain a parent/guardian authorization by completing a [Child Minor Addendum](https://www.synapse.org/TrustCenter:ChildMinorAddendum).</p></li>
+<li><p>You must be at least 18 years old to use our services or you must obtain a parent/guardian authorization by completing a <a href="https://www.synapse.org/TrustCenter:ChildMinorAddendum" target="_blank" rel="noopener noreferrer">Child Minor Addendum</a>.</p></li>
 <li><p>We take no responsibility or liability for any Content that has been posted to our Services.</p></li>
 <li><p>You may cancel your account at any time.</p></li>  
 
@@ -109,7 +109,7 @@ If you intend to use the Service as a Sovereign Entity and have questions about 
     <h3>&nbsp;&nbsp; Eligibility.</h3>
 <p>You must be at least 18 years old to use the Service without a parent/guardian authorization. By agreeing to these Terms, you or represent and warrant to us that: (a) you are at least 18 years old; (b) you are not suspended nor have you been removed from the Service; (c) you will not permit any other person, entity, organization, or company to access the Service through your account; and (d) your registration and your use of the Service is in compliance with any and all applicable laws and regulations. If you are an entity, organization, or company, the individual accepting these Terms on your behalf represents and warrants that they have the authority to bind you to these Terms, and you agree to be bound by these Terms.</p>
  
-<p> If you are under 18 years old or are a minor in your jurisdiction, you must obtain your parent/guardian's authorization to use the Service. By completing the [Child Minor Addendum](https://www.synapse.org/TrustCenter:ChildMinorAddendum), your parent/guardian acknowledges that your permission to use the Service is conditional upon your parent/guardian's own agreement to these Terms. </p>
+<p> If you are under 18 years old or are a minor in your jurisdiction, you must obtain your parent/guardian's authorization to use the Service. By completing the <a href="https://www.synapse.org/TrustCenter:ChildMinorAddendum" target="_blank" rel="noopener noreferrer">Child Minor Addendum</a>, your parent/guardian acknowledges that your permission to use the Service is conditional upon your parent/guardian's own agreement to these Terms. </p>
 </li>  
  
 <li>
@@ -279,7 +279,7 @@ If you intend to use the Service as a Sovereign Entity and have questions about 
 
 Sage Bionetworks Attn: PCO-Copyright 2901 Third Ave, Ste 330, Seattle, WA 98121 Email: copyright@sagebase.org  
 
-**13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.** If you believe that any Content made available on or through the Service has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly submit a [Notifice of Copyright Infringement](https://airtable.com/appdeaOCYSUOF84Tl/pagFn3omUEwrCqodO/form) or send to the Designated Agent identified above a letter containing the following information:  
+**13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.** If you believe that any Content made available on or through the Service has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly submit a [Notice of Copyright Infringement](https://airtable.com/appdeaOCYSUOF84Tl/pagFn3omUEwrCqodO/form) or send to the Designated Agent identified above a letter containing the following information:  
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other right being infringed;</p>  
 
