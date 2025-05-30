@@ -279,7 +279,7 @@ If you intend to use the Service as a Sovereign Entity and have questions about 
 
 Sage Bionetworks Attn: PCO-Copyright 2901 Third Ave, Ste 330, Seattle, WA 98121 Email: copyright@sagebase.org  
 
-**13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.** If you believe that any Content made available on or through the Service has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly submit a [Notifice of Copyright Infringement](https://airtable.com/appdeaOCYSUOF84Tl/pagFn3omUEwrCqodO/form) or send to the Designated Agent identified above a letter containing the following information:  
+**13.3 &nbsp;&nbsp;Procedure for Reporting Claimed Infringement.** If you believe that any Content made available on or through the Service has been used or exploited in a manner that infringes an intellectual property right you own or control, then please promptly submit a [Notice of Copyright Infringement](https://airtable.com/appdeaOCYSUOF84Tl/pagFn3omUEwrCqodO/form) or send to the Designated Agent identified above a letter containing the following information:  
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp; an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other right being infringed;</p>  
 
