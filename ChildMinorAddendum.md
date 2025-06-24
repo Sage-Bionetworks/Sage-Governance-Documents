@@ -16,17 +16,31 @@
 <p>Sage reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by Minor (without limiting Parent’s indemnification obligations with respect to that matter), and in that case, Parent agrees to cooperate with Sage’s defense of those claims.</p>
 
 <p><strong>Minor Signature</strong></p>
-<p>Name:</p>                                                                                                                        
-<p>Signature:</p>
-<p>Synapse User Name:</p>
+<p>Name: </p>
+
+-------
+<p>Signature: </p>
+
+-------
+<p>Synapse User Name: </p>
+
+-------
 <p>Date:</p>
 
+-------
 <p><strong>Parent Signature</strong></p>
 <p>Name:</p>
+
+-------
 <p>Signature:</p>
+
+-------
 <p>Email:</p>
+
+-------
 <p>Date:</p>
 
+-------
 
 
 
