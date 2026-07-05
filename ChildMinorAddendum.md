@@ -1,6 +1,7 @@
 **<h1>CHILD MINOR ADDENDUM</h1>**
 
 <p>This Child Minor Addendum (this <strong>“Addendum”</strong>) is between Sage, the undersigned minor child (<strong>“Minor”</strong>), and the undersigned minor child’s parent or legal guardian (<strong>“Parent”</strong>).This Addendum is incorporated into and made a part of the Sage Terms, of Service (<strong>“Terms”</strong>) effective as of the date signed below. All capitalized terms used in this Addendum, but not defined, shall have the definition set forth in the Terms. In the event of any conflict between the Terms and this Addendum, this Addendum prevails.</p>
+<p><i> Minors are not eligible to access Controlled-Access data.</i></p>
 
 <p><strong>Please email the completed form to privacyofficer@sagebase.org</strong></p>
 
